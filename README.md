@@ -149,11 +149,11 @@ Project Link: [https://github.com/MateosDev/Bamazon](https://github.com/MateosDe
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/MateosDev/Bamazon.svg
+[contributors-shield]: https://img.shields.io/github/contributors/MateosDev/Bamazon.svg?style=for-the-badge&logo=appveyor
 [contributors-url]: https://github.com/MateosDev/Bamazon/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MateosDev/Bamazon.svg
+[forks-shield]: https://img.shields.io/github/forks/MateosDev/Bamazon.svg?style=for-the-badge&logo=appveyor
 [forks-url]: https://github.com/MateosDev/Bamazon/network/members
-[stars-shield]: https://img.shields.io/github/stars/MateosDev/Bamazon.svg
+[stars-shield]: https://img.shields.io/github/stars/MateosDev/Bamazon.svg?style=for-the-badge&logo=appveyor
 [stars-url]: https://github.com/MateosDev/Bamazon/stargazers
 [issues-shield]: https://img.shields.io/github/issues/MateosDev/Bamazon.svg?style=for-the-badge&logo=appveyor
 [issues-url]: https://github.com/MateosDev/Bamazon/issues
