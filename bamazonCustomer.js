@@ -4,10 +4,8 @@ require("dotenv").config();
 var keys = require("./keys.js");
 var mysql = require("mysql");
 var inquirer = require("inquirer");
-var stockCheck;
-// var keys = key.password;
-// console.log(keys.password);
 var connection = mysql.createConnection(keys);
+var stockCheck;
 
 //Initiate the Database Connection
 
@@ -90,9 +88,8 @@ function salePrice(id, amount) {
     }
     console.log(
       //reciept for amount of items and price?
-      "Thank you for your choosing Bamazon. The total " +
-        amount +
-        "X item ID:" +
+      "Thank you for your choosing Bamazon. The total for " +
+        // "X item ID:" +
         id +
         " is $" +
         (res[0].price * amount).toFixed(2)
