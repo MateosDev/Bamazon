@@ -111,7 +111,7 @@ The app will use Inquirer to prompt the user to select an item ID of the item th
 
 If there is an adequate quantity in stock the purchase will process and deduct the stock number from the mysql Database where the item information is housed. It will then return a Line Item Transaction console log that will display how many of an item was purchased and the total price.
 
-
+<img src="https://github.com/MateosDev/Bamazon/blob/master/assets/images/BamazonCustomerDemo.gif"/>
 
 
 
