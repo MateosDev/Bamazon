@@ -40,7 +40,6 @@ This app is meant to simulate a simplified purchasing window and a product manag
 - [Node](https://nodejs.org/en/)
 - [Node Package - DotEnv](https://www.npmjs.com/package/dotenv)
 - [Node Package - mysql](https://www.npmjs.com/package/mysql)
-- [Node Package - CLI Table](https://www.npmjs.com/package/cli-table)
 - [Node Package - Inquirer](https://www.npmjs.com/package/inquirer)
 - [othneildrew - Best README Template](https://github.com/othneildrew/Best-README-Template)
 
