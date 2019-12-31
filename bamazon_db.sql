@@ -20,7 +20,7 @@ USE bamazon_db;
 CREATE TABLE products
 (
     id INT NOT NULL
-    AUTO_INCREMENT,
+    'AUTO_INCREMENT',
   product_name VARCHAR
     (120) NULL,
   department_name VARCHAR

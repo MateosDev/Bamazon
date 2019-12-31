@@ -4,7 +4,7 @@
 
 -- Using Database - Use if bamazon_db is not currently selected 
 
-USE bamazon_db;
+-- USE bamazon_db;
 
 -- For resetting table content only (uncomment Line 9 and run the code to delete and reset)
 -- DELETE FROM products;

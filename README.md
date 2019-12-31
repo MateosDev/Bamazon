@@ -105,38 +105,45 @@ To use Bamazon Mangager with node run `node bamazonManager.js` in a node compati
 
 #### `BamazonCustomer`
 
+<img src="https://github.com/MateosDev/Bamazon/blob/master/assets/images/BamazonCustomerDemo.gif"/>
+
 Running BamazonCustomer.js will display a list of items in a table complete with ID, product name, and prices.
+
+<img src="https://github.com/MateosDev/Bamazon/blob/master/assets/images/BamazonCustomerView0.png"/>
 
 The app will use Inquirer to prompt the user to select an item ID of the item they would like to purchase. The user will then select the amount of the item they would like to purchase.
 
+<img src="https://github.com/MateosDev/Bamazon/blob/master/assets/images/BamazonCustomerPurchase2.png"/>
+
 If there is an adequate quantity in stock the purchase will process and deduct the stock number from the mysql Database where the item information is housed. It will then return a Line Item Transaction console log that will display how many of an item was purchased and the total price.
 
-<img src="https://github.com/MateosDev/Bamazon/blob/master/assets/images/BamazonCustomerDemo.gif"/>
+<img src="https://github.com/MateosDev/Bamazon/blob/master/assets/images/BamazonCustomerLowStock1.png"/>
 
 
 
 
-#### `BamazonManager`
+#### `BamazonManager`    
 
 
+<img src="https://github.com/MateosDev/Bamazon/blob/master/assets/images/BamazonManagerView0.png"/>
 
 Running BamazonManager.js and selecting `View Products for Sale` will display a list of items in a table complete with ID, product name, department name, prices, and stock quantities.
 
-
+<img src="https://github.com/MateosDev/Bamazon/blob/master/assets/images/BamazonProductsForSale.gif"/>
 
 Selecting `View Low Inventory` will display all stocked items that have less than 5 in stock.
 
-
+<img src="https://github.com/MateosDev/Bamazon/blob/master/assets/images/BamazonLowInventory.gif"/>
 
 Selecting `Add to Inventory` will allow a user to resupply whatever ID number with whatever amount number you type into the prompt.
 
-
+<img src="https://github.com/MateosDev/Bamazon/blob/master/assets/images/BamazonAddInventory.gif"/>
 
 Selecting `Add New Product` will allow a user to provide a product name, department name, prices, and stock quantity. Then display an updated table with information pulled form the database.
 
+<img src="https://github.com/MateosDev/Bamazon/blob/master/assets/images/BamazonAddProduct.gif"/>
 
 
-If there is an adequate quantity in stock the purchase will process and deduct the stock number from the mysql Database where the item information is housed. It will then return a Line Item Transaction console log that will display how many of an item was purchased and the total price.
 
 <!-- CONTACT -->
 
